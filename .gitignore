@@ -1,0 +1,6 @@
+# Paquetes de descarga generados
+*.zip
+
+# Sistema
+.DS_Store
+Thumbs.db
