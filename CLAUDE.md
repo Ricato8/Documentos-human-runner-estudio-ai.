@@ -102,6 +102,8 @@ Al cerrar un ciclo, registra las conclusiones en `07_decisiones-y-aprendizajes/`
 
 Cada carpeta tiene un `README.md` con alcance, entregables y convenciones. Los agentes están en `.claude/agents/` y las tareas recurrentes en `.claude/skills/`.
 
+**Cómo llamar a cada agente, sus actividades y los flujos encadenados:** `00_base-conocimiento/sistema-de-llamado-agentes.md`.
+
 ## 7. KPIs prioritarios de negocio
 
 1. Tráfico cualificado al website
@@ -126,6 +128,7 @@ CLAUDE.md                      ← este archivo
   guia-de-voz.md
   kpis.md
   datos-pendientes.md          ← lo que aún no sabemos
+  sistema-de-llamado-agentes.md ← cómo llamar a cada agente
   producto/catalogo.md         ← referencias, fichas técnicas y tallas
 01_research/                   ← mercado, competencia, tendencias, audiencias
 02_content/                    ← estrategia editorial, calendarios, copies, guiones
