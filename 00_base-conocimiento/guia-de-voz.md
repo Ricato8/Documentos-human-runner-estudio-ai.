@@ -1,6 +1,7 @@
 # Guía de voz y claims — Human Runner
 
 > Derivada del briefing maestro (§3 y §5). Úsala para revisar copies, guiones, fichas de producto, emails y anuncios.
+> **La autoridad de tono es `bitacora-conversacion-contenido.md`.** Si algo aquí la contradice, manda la bitácora.
 
 ## Cómo suena HR
 Una conversación entre personas que entienden lo que significa correr.
@@ -14,7 +15,7 @@ Una conversación entre personas que entienden lo que significa correr.
 | **Cercana** | Tutea, pregunta y responde | Le habla a "consumidores" |
 | **Técnica** | Explica materiales y construcción con precisión | Usa jerga vacía ("tecnología avanzada") |
 
-**Registro:** directo, emocional cuando corresponde y técnico cuando se habla de producto. Español de Colombia y tuteo. Usa léxico runner con naturalidad (rodaje, fondo, series, cuestas, trail, PR/marca personal), sin abusar de anglicismos.
+**Registro:** directo, emocional cuando corresponde y técnico cuando se habla de producto. Español de Colombia y tuteo. Usa el léxico de quien corre (rodaje, tirada larga, series, subida, salida, marca personal). Di "corredor/corredora", nunca "runners" ni "atletas". Inglés solo en nombres de colección y firmas cortas.
 
 ## Ideas fuerza
 - No eres perfecto. Eres constante.

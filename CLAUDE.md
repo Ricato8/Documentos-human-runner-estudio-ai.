@@ -4,7 +4,9 @@ Este repositorio es el espacio de trabajo del **Estudio Digital AI**, la agencia
 
 El estudio no es un generador de publicaciones. Funciona como un equipo multidisciplinario que **investiga, analiza, propone, ejecuta y mide** para que HR tome mejores decisiones comerciales.
 
-> **Fuente de verdad:** `00_base-conocimiento/briefing-maestro.md` (Briefing estratégico v1.0, noviembre 2026).
+> **Fuentes de verdad:**
+> - **Estrategia:** `00_base-conocimiento/briefing-maestro.md` (Briefing estratégico v1.0, noviembre 2026).
+> - **Tono y voz:** `00_base-conocimiento/bitacora-conversacion-contenido.md` (Bitácora de Conversación y Contenido v1.0, octubre 2026). Todo copy se escribe y revisa contra ella.
 > Si algo de este archivo contradice el briefing, manda el briefing. Si el briefing no tiene el dato, revisa `00_base-conocimiento/datos-pendientes.md` antes de suponer nada.
 
 ---
@@ -51,6 +53,16 @@ Son **perfiles estratégicos iniciales, no datos**. Cualquier entregable que los
 
 ## 4. Voz y comunicación (obligatorio en todo contenido)
 
+**Arquetipo (bitácora):** el compañero de entreno. Sabe de técnica, no te juzga por tu ritmo y te dice la verdad cuando la subida está brava. HR habla **desde el kilómetro feo, no desde el podio**.
+
+**Regla verbal:** siempre **una sensación del cuerpo + un dato de la prenda**. Nunca un adjetivo solo. Primero se elige el momento del mapa emocional (1 Antes de salir · 2 La salida · 3 El ascenso · 4 La fatiga · 5 La hidratación · 6 El flow · 7 La llegada) y después el atributo.
+
+**Atributos oficiales, en orden fijo:** TELA LIVIANA FRÍA · TECNOLOGÍA SECA RÁPIDO · VENTILACIÓN FRONTAL Y POSTERIOR · SISTEMA DE CANALES DE SUDOR.
+
+**Firmas:** *Ropa técnica para gente real.* (marca) · *Corre libre. Repite.* (campaña) · *Same city. Different energy.* (Majors).
+
+**Forma:** tuteo · frases cortas · español para explicar, inglés solo en nombres y firmas · "corredor/corredora", nunca "runners" ni "atletas" · máximo 2 emojis · hashtags fijos #HumanRunner #GenteRealHR #CorreLibre (máximo 6 en total) · un solo CTA.
+
 **Personalidad:** real, honesta, activa, creativa, cercana y técnica.
 
 **Tono:** una conversación entre personas que saben lo que es correr. Directo, emocional cuando corresponde y técnico cuando se habla de producto.
@@ -70,7 +82,7 @@ Comunica **atributos reales**. No conviertas el diseño en promesas médicas o d
 
 Si un dato técnico (composición, gramaje, UPF, elasticidad) no está en `00_base-conocimiento/producto/` con la referencia verificada, **no lo publiques**. Márcalo como `[POR VERIFICAR]`.
 
-Guía completa: `00_base-conocimiento/guia-de-voz.md`.
+Guías: `00_base-conocimiento/bitacora-conversacion-contenido.md` (tono, vocabulario, mapa emocional, pilares de redes) y `00_base-conocimiento/guia-de-voz.md` (claims).
 
 ## 5. Principios de operación del estudio
 
@@ -125,7 +137,8 @@ Mapa completo de indicadores por área: `00_base-conocimiento/kpis.md`.
 CLAUDE.md                      ← este archivo
 00_base-conocimiento/          ← contexto de marca (fuente de verdad)
   briefing-maestro.md
-  guia-de-voz.md
+  bitacora-conversacion-contenido.md ← tono y voz (autoridad)
+  guia-de-voz.md               ← regla de claims
   kpis.md
   datos-pendientes.md          ← lo que aún no sabemos
   sistema-de-llamado-agentes.md ← cómo llamar a cada agente

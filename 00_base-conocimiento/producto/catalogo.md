@@ -1,12 +1,21 @@
 # Catálogo y fichas técnicas — Human Runner
 
 > Única fuente válida de especificaciones para comunicación. **Lo que no esté aquí y verificado no se publica.**
-> Estado: **vacío. Pendiente de recibir el catálogo de HR.**
+> Estado: **parcial.** Referencias identificadas en la bitácora (oct 2026). Composición, gramaje y tallas siguen pendientes.
 
 ## Referencias activas
 | SKU / Ref | Nombre | Colección | Género / horma | Tipo de prenda | Precio COP | Estado | Verificada |
 |---|---|---|---|---|---|---|---|
-| _pendiente_ | | HURU / MAJORS | M / F | Camisilla / ... | | Activa / agotada | ☐ |
+| _pendiente_ | Tank Esencial · Azul Noche | `[POR CONFIRMAR: ¿HURU?]` | Unisex, ajuste atlético (según bitácora) | Tank top | `[POR CONFIRMAR]` | `[POR CONFIRMAR]` | ☐ |
+| _pendiente_ | Tank Primavera MED · Horma Mujer | Primavera MED (1.ª edición, limitada) | Mujer | Tank top | `[POR CONFIRMAR]` | `[POR CONFIRMAR]` | ☐ |
+| _pendiente_ | Tank Majors Collection · New York City | MAJORS | Ajuste atlético | Tank top | `[POR CONFIRMAR]` | `[POR CONFIRMAR]` | ☐ |
+
+**Detalles por referencia (fuente: bitácora §07, sin verificar con el proveedor):**
+- **Tank Esencial · Azul Noche:** los 4 atributos transversales + logo reflectivo de alto contraste, perforaciones en pecho y espalda, estampado degradé, termosellado sin costuras gruesas y etiqueta tejida.
+- **Tank Primavera MED · Horma Mujer:** los 4 atributos + horma femenina (ajuste atlético, escote redondo de bajo perfil, sisa amplia, largo para correr), cuello ultraliviano sin costuras gruesas, canales visibles en la espalda y estampado Primavera MED.
+- **Tank Majors NYC:** los 4 atributos + estampado geométrico azul y naranja, cuello redondo sin costuras, perforaciones integradas al estampado y textura suave. **Inspirada en la ciudad; no es producto oficial de ninguna carrera.**
+
+**Inconsistencia por resolver:** el briefing habla de "hormas masculinas y femeninas", pero la bitácora describe el Tank Esencial como **unisex**. No comunicar "horma masculina" hasta confirmarlo.
 
 ## Ficha técnica (duplicar por referencia)
 ### [Nombre de la referencia]

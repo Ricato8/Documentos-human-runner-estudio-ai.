@@ -53,3 +53,12 @@
 - [ ] Manual de identidad visual (logo, paleta, tipografías)
 - [ ] Banco de fotos y video
 - [ ] Manifiesto de marca (si existe)
+
+## Validaciones de la bitácora (oct 2026)
+- [ ] Grafía correcta de la tela Vértigo / Lafayette y permiso para nombrar al proveedor
+- [ ] Respaldo de "fría" (sensación al tacto) y "seca rápido" (dato o comparación)
+- [ ] Uso legal de "Majors Collection" y de las referencias a maratones
+- [ ] Origen: "nace en Medellín" / "marca colombiana" / "hecha en Colombia"
+- [ ] ¿Horma masculina o unisex? (el briefing y la bitácora no coinciden)
+- [ ] ¿Qué referencias pertenecen a HURU? ¿Primavera MED es una colección aparte?
+- [ ] Permiso de los participantes del test de producto (may 2026) para usar sus comentarios como testimonio

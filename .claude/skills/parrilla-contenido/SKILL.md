@@ -5,7 +5,7 @@ description: Genera la parrilla de contenido de Instagram de Human Runner para u
 
 # Parrilla de contenido — Human Runner
 
-1. Lee `CLAUDE.md`, `00_base-conocimiento/guia-de-voz.md`, `00_base-conocimiento/producto/catalogo.md` y `02_content/README.md`.
+1. Lee `CLAUDE.md`, `00_base-conocimiento/bitacora-conversacion-contenido.md` (tono, mapa emocional, pilares de redes), `00_base-conocimiento/guia-de-voz.md`, `00_base-conocimiento/producto/catalogo.md` y `02_content/README.md`.
 2. Revisa las parrillas anteriores en `02_content/calendarios/` y el último reporte en `02_content/reportes/` o `04_growth/reportes/` para no repetir conceptos y para aprender de lo que funcionó.
 3. Pregunta (o toma de los argumentos) el **periodo**, el **objetivo del periodo**, los lanzamientos o eventos y la frecuencia. Por defecto: 4 posts/reels y stories diarias por semana.
 4. Revisa fechas relevantes del calendario runner en Colombia (`03_hunting/eventos.csv`) y del comercio (quincenas, temporadas).
