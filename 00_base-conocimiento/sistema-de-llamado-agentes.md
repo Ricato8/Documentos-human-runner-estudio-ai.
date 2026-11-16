@@ -37,6 +37,7 @@ Entregable: <formato esperado>  ·  Plazo/periodo: <...>
 ```
 
 ### Reglas que aplican a todos los llamados
+- **Drive:** los agentes solo leen la carpeta HR (https://drive.google.com/drive/folders/1LeKiRQ9hujnP9DAhWLc-D5QEKHR8-NTN) y sus subcarpetas. Un hook bloquea todo lo demás.
 - **Datos:** si el pedido requiere cifras de HR (ventas, tráfico, Insights) y no están en el repo, el agente las pide. **No las inventa.**
 - **Aprobación humana:** pauta, precios, descuentos, alianzas, producción y cualquier contacto con terceros.
 - **Nada sale del repositorio:** los agentes no publican en Instagram, no envían correos y no contactan a nadie.

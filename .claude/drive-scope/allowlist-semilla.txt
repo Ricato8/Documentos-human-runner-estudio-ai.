@@ -1,0 +1,10 @@
+# IDs dentro de la carpeta autorizada "HR" (inventario 2026-11-16). Uno por línea.
+# Los IDs nuevos que aparezcan al listar la carpeta se agregan solos a allowlist.local.txt (no versionado).
+1LeKiRQ9hujnP9DAhWLc-D5QEKHR8-NTN
+10lzSfiwaSf2coackOBExmndaHb5L659Pd0S80ph1yCQ
+1VkRsuMYX9spUWg1_R_jOBm7nCk4X5KOG
+1rdcEFjtH3XJDXxBUunX1ro03eKQH24RJ
+1TDcrnRLGWwSFqM9T2bh0fP0dBBvWNvI7
+1U3eMRT2_vDmVB7TNUp-5--QEmMOfZEKW
+1KaP5TNxJBUSZGQ1FNx2daOyGmRXQle6x
+1waew0Qwj9Bg0mgcv00wIokGqhkkFWeqh9R6Gue84D4A

@@ -84,7 +84,17 @@ Si un dato técnico (composición, gramaje, UPF, elasticidad) no está en `00_ba
 
 Guías: `00_base-conocimiento/bitacora-conversacion-contenido.md` (tono, vocabulario, mapa emocional, pilares de redes) y `00_base-conocimiento/guia-de-voz.md` (claims).
 
-## 5. Principios de operación del estudio
+## 5. Acceso a información de la marca en Google Drive (regla para todos los agentes)
+
+**Acceso único autorizado:** carpeta **HR**, https://drive.google.com/drive/folders/1LeKiRQ9hujnP9DAhWLc-D5QEKHR8-NTN, y sus subcarpetas, **en modo lectura**.
+
+- No se explora, busca ni abre **ningún** contenido de Drive fuera de esa carpeta: nada de búsquedas globales, archivos recientes ni unidades compartidas.
+- Siempre se lista con `search_files` y `parentId = '<carpeta o subcarpeta>'`, combinado solo con `and`. Luego se lee por ID.
+- No se crea, edita, copia, comparte ni borra nada en Drive.
+- **Control técnico:** `.claude/settings.json` y `.claude/hooks/drive_scope.py` bloquean cualquier llamada fuera del alcance. La configuración está en `.claude/drive-scope/`. Si un archivo necesario está fuera de la carpeta, se pide a HR que lo mueva; no se rodea el bloqueo.
+- Los datos personales de clientes, las credenciales y los datos bancarios no se copian al repositorio.
+
+## 6. Principios de operación del estudio
 
 1. Toda recomendación tiene un **objetivo de negocio** explícito.
 2. Toda investigación incluye **fuentes con URL y fecha de consulta**.
@@ -101,7 +111,7 @@ Guías: `00_base-conocimiento/bitacora-conversacion-contenido.md` (tono, vocabul
 
 Al cerrar un ciclo, registra las conclusiones en `07_decisiones-y-aprendizajes/`.
 
-## 6. Los cinco frentes
+## 7. Los cinco frentes
 
 | Frente | Carpeta | Frecuencia | Agente |
 |---|---|---|---|
@@ -116,7 +126,7 @@ Cada carpeta tiene un `README.md` con alcance, entregables y convenciones. Los a
 
 **Cómo llamar a cada agente, sus actividades y los flujos encadenados:** `00_base-conocimiento/sistema-de-llamado-agentes.md`.
 
-## 7. KPIs prioritarios de negocio
+## 8. KPIs prioritarios de negocio
 
 1. Tráfico cualificado al website
 2. Conversión de visitantes en compradores
@@ -131,7 +141,7 @@ Mapa completo de indicadores por área: `00_base-conocimiento/kpis.md`.
 
 **Ecosistema:** Instagram descubre y conecta → el website informa y convierte → la compra fortalece la relación → la comunidad y el contenido traen nuevas adquisiciones. Todo enlace de Instagram al sitio lleva UTM (convención en `04_growth/README.md`).
 
-## 8. Estructura del repositorio
+## 9. Estructura del repositorio
 
 ```
 CLAUDE.md                      ← este archivo
@@ -153,9 +163,11 @@ CLAUDE.md                      ← este archivo
 plantillas/                    ← plantillas de todos los entregables
 .claude/agents/                ← subagentes por frente
 .claude/skills/                ← tareas recurrentes
+.claude/settings.json + hooks/ ← restricción de acceso a Drive
+.claude/drive-scope/           ← carpeta autorizada y allowlist
 ```
 
-## 9. Convenciones de archivos
+## 10. Convenciones de archivos
 
 - **Idioma:** español de Colombia. Tutea en el contenido para la comunidad.
 - **Nombres de archivo:** `AAAA-MM-DD_tema-en-kebab-case.md`. Ejemplo: `2026-11-20_benchmark-marcas-running-co.md`.
@@ -164,7 +176,7 @@ plantillas/                    ← plantillas de todos los entregables
 - Usa siempre las plantillas de `plantillas/`. Si un formato se repite, crea la plantilla.
 - Cuando aparezca información nueva y confirmada del negocio (precios, catálogo, métricas), actualiza `00_base-conocimiento/` y quítala de `datos-pendientes.md`.
 
-## 10. Estado actual (noviembre 2026)
+## 11. Estado actual (noviembre 2026)
 
 - Fase: **primeros 30 días, diagnóstico y línea base**. Ver `06_plan/plan-30-dias.md`.
 - Horizonte de 0 a 6 meses: consolidar la marca y validar comercialmente.

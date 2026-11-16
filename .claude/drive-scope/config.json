@@ -1,0 +1,6 @@
+{
+  "descripcion": "Único acceso autorizado a Google Drive para el Estudio Digital AI de Human Runner. Todo lo que esté fuera de esta carpeta (y sus subcarpetas) está bloqueado.",
+  "carpeta_raiz_id": "1LeKiRQ9hujnP9DAhWLc-D5QEKHR8-NTN",
+  "carpeta_raiz_url": "https://drive.google.com/drive/folders/1LeKiRQ9hujnP9DAhWLc-D5QEKHR8-NTN",
+  "modo": "solo_lectura"
+}
